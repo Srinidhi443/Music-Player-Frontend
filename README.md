@@ -1,6 +1,3 @@
-# MUSIC-PAYER-CODING-NINJA-PROJECT
-This is my CodingNinjas Frontend Course Project of Music Player Using HTML and CSS.
-
+# MUSIC-PLAYER_PROJECT
 ### Live Preview of the Project :
-
 [`Click on the link`](https://smanika.github.io/MUSIC-PAYER-CODING-NINJA-PROJECT/)
